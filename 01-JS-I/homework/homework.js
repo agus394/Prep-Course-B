@@ -5,7 +5,7 @@ const nuevaString = null;
 dfbdfbkn
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
-
+dvadf
 // Crea una variable booleana:
 const nuevoBool = null;
 
